@@ -1,0 +1,218 @@
+.heading-part{
+
+
+padding: 13px; 
+ 
+
+font-family: 'Montserrat', sans-serif;
+
+font-size: 18px; 
+
+background-color: rgba(15, 15, 12, 0.945); 
+
+color: yellow;
+
+
+} 
+
+.img-1-content{ 
+
+
+     color: rgb(240, 13, 13);
+
+     font-size: 25px;
+
+     text-align:center;
+
+
+ 
+
+} 
+
+
+.img-2-content{ 
+
+
+     
+     color: rgb(240, 13, 13);
+
+     
+
+     font-size: 25px;
+
+     text-align:center;
+
+
+
+
+
+} 
+
+
+.img-3-content{ 
+
+
+     color: rgb(240, 13, 13);
+
+
+     font-size: 25px;
+
+     text-align:center;
+
+
+
+
+
+} 
+
+
+
+.footer-section {
+
+     text-align:center;
+     background-color:black;
+     color:white; 
+
+     padding-top:28px;
+    
+     height:160px;
+  
+     padding:30px ;
+
+
+
+   
+
+    
+ 
+ 
+}  
+
+.button-one{
+
+     background-color: #faa0a8;
+     color: rgb(12, 8, 8);
+     padding: 8px 62px;
+     text-align: center;
+     display: inline-block; 
+
+     font-family: 'Montserrat', sans-serif;
+
+}
+
+
+/* Tablet Landscape */
+
+html { font-size:100%; }
+
+@media screen and (max-width: 1060px) {
+     #primary { width:67%; }
+     #secondary { width:30%; margin-left:3%;}  
+ }
+ 
+
+ @media screen 
+ and (device-width: 480px) 
+ and (device-height: 800px) {
+
+}
+
+/* windows phone Portrait */
+@media screen 
+ and (device-width: 480px) 
+ and (device-height: 800px)  
+ and (orientation: portrait) {
+
+}
+
+/* windows phone Landscape */
+@media screen 
+ and (device-width: 480px) 
+ and (device-height: 800px) 
+ and (orientation: landscape) {
+
+}
+    
+@media screen 
+and (device-width: 360px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 2) {
+
+}
+
+/* windows phone Portrait */
+@media screen 
+and (device-width: 320px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (orientation: portrait) {
+
+}
+
+/* windows phone Landscape */
+@media screen 
+and (device-width: 320px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 2) 
+and (orientation: landscape) {
+
+}
+
+/*  Galaxy S4, S5 and Note 3 */
+
+/* Portrait and Landscape */
+@media screen 
+and (device-width: 320px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 3) {
+
+}
+
+/* Portrait */
+@media screen 
+and (device-width: 320px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: portrait) {
+
+}
+
+/* Landscape */
+@media screen 
+and (device-width: 320px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 3) 
+and (orientation: landscape) {
+
+}
+
+/*  Galaxy S6  */
+
+/* Portrait and Landscape */
+@media screen 
+and (device-width: 360px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 4) {
+
+}
+
+/* Portrait */
+@media screen 
+and (device-width: 360px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 4) 
+and (orientation: portrait) {
+
+}
+
+/* Landscape */
+@media screen 
+and (device-width: 360px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 4) 
+and (orientation: landscape) {
+
+}
+
+
+ 
